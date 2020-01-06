@@ -1,3 +1,15 @@
+//FIRST CLASS FUNCTIONS//////////////////////////////////////
+        //EVERYTHING YOU CAN DO WITH OTHER TYPES YOU CAN DO WITH FUNCTIONS///
+
+        //FUNCTION EXPRESSION/////////////////////////////////////////////
+        //var a = 1  is an expression
+
+        //FUNCTION EXPRESSION ARE FIRST CLASS//
+
+        // INVOKE://////////////////////////////////////////////////////////////////////////////
+        // RUN THE FUNCTION OR CALL//
+
+
 // function statement
 function greet() {
 	console.log('hi');

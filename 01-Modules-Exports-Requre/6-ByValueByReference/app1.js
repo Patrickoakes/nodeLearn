@@ -1,5 +1,5 @@
  //pass by value
-function change(b) {
+ function change(b) {
 	b = 2;
 }
 
